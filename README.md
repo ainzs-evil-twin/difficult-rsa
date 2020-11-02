@@ -1,4 +1,4 @@
-# difficult-rsa
+# not-so-difficult-rsa
 
 An RSA challenge from Ainz's evil twin.
 
@@ -14,8 +14,8 @@ Can you decrypt this ciphertext with given hints?
 
 ## Attachments
 
-`https://github.com/ainzs-evil-twin/difficult-rsa/blob/main/alice.txt`  
-`https://github.com/ainzs-evil-twin/difficult-rsa/blob/main/bob.txt`
+`https://github.com/ainzs-evil-twin/not-so-difficult-rsa/blob/main/alice.txt`  
+`https://github.com/ainzs-evil-twin/not-so-difficult-rsa/blob/main/bob.txt`
 
 ## Flag format
 
